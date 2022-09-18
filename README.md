@@ -5,7 +5,7 @@ This is a collection of Data Analysis and Machine Learning projects I have done 
 * Linkedin: [https://www.linkedin.com/in/dulithajayakodige/](https://www.linkedin.com/in/dulithajayakodige/)
 * Kaggle: [https://www.kaggle.com/dulithajayakodige](https://www.kaggle.com/dulithajayakodige)
 
-## Predict Bacteria Type 
+## 1. Predicting Bacteria Types 
 
 ![alt text](bacteriatypeprediction.png)
 
