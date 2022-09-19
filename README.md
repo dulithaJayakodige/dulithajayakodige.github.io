@@ -11,5 +11,10 @@ This is a collection of Data Analysis and Machine Learning projects I have done 
 
 ![alt text](bacteriatypeprediction.png)
 
-RandomForestClassifier from sklearn was used to indentify the bacteria type based on their contributions of each ATGC composition. You can find more information on my notebook [https://www.kaggle.com/code/dulithajayakodige/simple-ml-model-to-predict-bacteria-type/notebook](https://www.kaggle.com/code/dulithajayakodige/simple-ml-model-to-predict-bacteria-type/notebook)
+RandomForestClassifier from sklearn was used to indentify the bacteria type based on their contributions of each ATGC composition.
+
+pandas; numpy; matplotlib; seaborn; RandomForestClassifier, train_test_split,confusion_matrix,accuracy_score from sklearn
+
+
+You can find more information on my notebook [https://www.kaggle.com/code/dulithajayakodige/simple-ml-model-to-predict-bacteria-type/notebook](https://www.kaggle.com/code/dulithajayakodige/simple-ml-model-to-predict-bacteria-type/notebook)
 
