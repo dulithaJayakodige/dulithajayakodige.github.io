@@ -2,10 +2,10 @@
 
 This is a collection of Data Analysis and Machine Learning projects I have done for academic and self-learning purposes. If you have any questions about these projects, like to have a chat or collaborate with me, please feel free to contact me via
 * Email: dulitha.mj@gmail.com
-* CV: [https://github.com/dulithaJayakodige/dulithajayakodige.github.io/blob/main/mostUpdatedCV.pdf](https://github.com/dulithaJayakodige/dulithajayakodige.github.io/blob/main/mostUpdatedCV.pdf)
 * Linkedin: [https://www.linkedin.com/in/dulithajayakodige/](https://www.linkedin.com/in/dulithajayakodige/)
 * Kaggle: [https://www.kaggle.com/dulithajayakodige](https://www.kaggle.com/dulithajayakodige)
 * Github: [https://github.com/dulithaJayakodige](https://github.com/dulithaJayakodige)
+* CV: [https://github.com/dulithaJayakodige/dulithajayakodige.github.io/blob/main/MostUpdatedCV.pdf](https://github.com/dulithaJayakodige/dulithajayakodige.github.io/blob/main/MostUpdatedCV.pdf)
 
 ## Projects
 
