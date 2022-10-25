@@ -9,7 +9,13 @@ This is a collection of Data Analysis and Machine Learning projects I have done 
 
 ## Projects
 
-### 1. Predicting Bacteria Types 
+### 1. HUBC TERMINAL hackathon
+
+![alt text](HUBCTerminal.png)
+
+
+
+### 2. Predicting Bacteria Types 
 
 ![alt text](bacteriatypeprediction.png)
 
