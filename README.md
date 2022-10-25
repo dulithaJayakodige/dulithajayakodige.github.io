@@ -17,8 +17,7 @@ RandomForestClassifier from sklearn was used to indentify the bacteria type base
 ### 2. HUBC TERMINAL hackathon
 ![alt text](HUBCTerminal.png)
 HUBC TERMINAL was an AI game where we could compete by programming algorithms and battling them against each others. I paired up with my friend, Chukwuemeka Ojih to participate in this competition. We used a given python template to build our own algorithem to fight aginst opponents. Our algorithem was capable of figuring out opponents attacking and deffencing stratergies and act accordingly. At the final commpetition our algorithem received the 10th place (from 21 submitted algorithems). It was a very goot oppertunity for me to practice virtual team working, working to a deadline, python programing, and have a fun. 
-More information about HUBC TERMINAL can be found at [https://terminal.c1games.com/competitions/299](https://terminal.c1games.com/competitions/299)
-Our algorithems (X5 and X7) can be found at [https://github.com/dulithaJayakodige/HUBCTerminal](https://github.com/dulithaJayakodige/HUBCTerminal)
+More information about HUBC TERMINAL can be found at [https://terminal.c1games.com/competitions/299](https://terminal.c1games.com/competitions/299) .Our algorithems (X5 and X7) can be found at [https://github.com/dulithaJayakodige/HUBCTerminal](https://github.com/dulithaJayakodige/HUBCTerminal)
 
 
 ### You will be able to see new projects soon. Thank you for visiting.
