@@ -15,7 +15,7 @@ This is a collection of Data Analysis and Machine Learning projects I have done 
 RandomForestClassifier from sklearn was used to identify the bacteria type based on their contributions to each ATGC composition. While working on this project I learned to use pandas, NumPy, matplotlib, seaborn, RandomForestClassifier, train_test_split, confusion_matrix, and accuracy_score from sklearn. My model could predict the type of bacteria with up to 99% accuracy. You can find more information on my notebook [https://www.kaggle.com/code/dulithajayakodige/simple-ml-model-to-predict-bacteria-type/notebook](https://www.kaggle.com/code/dulithajayakodige/simple-ml-model-to-predict-bacteria-type/notebook)
 
 ### 2. IBM Data Science Capstone Project
-![alt text](IBMDataScience.png)
+![alt text](IBMDataScience2.png)
 
 I followed IBM Data Science Professional Certificate through coursera. As its capstone project, I predicted the success of a future SpaceX Falcon 9 rockets landing process. I used SpaceX API and Web Scraping to collet data for this project. Then I   proformed a explotary data analicis using pandas library and SQL . Then I visualize data using matplotlib and seaborn. Folium was used to makea  interactive  maps and Plotly Dash was used to built interactive visuals. I used Logistic Regression, K Nearest Neighbor, Decision Tree Classifier, and Support Vector Machine to predict the success of a future landing process. StandardScaler(), train_test_split(), and  GridSearchCV() functions from sklearn were also used for hyperparameter optimization and accuracy calculation. You can see my work at [https://github.com/dulithaJayakodige/Applied_Data_Science_Capstone](https://github.com/dulithaJayakodige/Applied_Data_Science_Capstone)
 
