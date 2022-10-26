@@ -10,7 +10,7 @@ This is a collection of Data Analysis and Machine Learning projects I have done 
 ## Projects
 ### 1. Predicting Bacteria Types 
 
-![alt text](bacteriatypeprediction.png)
+![alt text](bacteriatypeprediction2.png)
 
 RandomForestClassifier from sklearn was used to identify the bacteria type based on their contributions to each ATGC composition. While working on this project I learned to use pandas, NumPy, matplotlib, seaborn, RandomForestClassifier, train_test_split, confusion_matrix, and accuracy_score from sklearn. My model could predict the type of bacteria with up to 99% accuracy. You can find more information on my notebook [https://www.kaggle.com/code/dulithajayakodige/simple-ml-model-to-predict-bacteria-type/notebook](https://www.kaggle.com/code/dulithajayakodige/simple-ml-model-to-predict-bacteria-type/notebook)
 
