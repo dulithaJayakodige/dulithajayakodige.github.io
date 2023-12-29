@@ -6,11 +6,12 @@ This is a collection of Data Analysis and Machine Learning projects I have done 
 * CV: [https://github.com/dulithaJayakodige/dulithajayakodige.github.io/blob/main/CV.pdf](https://github.com/dulithaJayakodige/dulithajayakodige.github.io/blob/main/CV.pdf)
 
 ## Projects
-### 1. Classifying Pion and Kaon
+### 1. Classifying Pions and Kaons
 
 ![alt text](ClassifingPionKaon.png)
 
-Pion and Kaon are subatomic particles that are made out of quark and antiquark pairs. They are created during high-energy collision experiments, and scientists have developed detectors to track them. I took part in the AI4EIC Hackathon, where we had to build a model to classify Pion and Kaon from a large set of data. Our team won second place with a basic Convolutional Neural Network (CNN). Later, I built a model with multiple inputs using the Keras Functional API. In this model, kinematics variables (momentum and angles) were inputted into a Neural Network (NN), while particle detection data was transformed into 64x64 images and input into a CNN. The outputs of the NN and CNN were then fed into another NN to obtain the output. Please check the following link for further details on this project. [https://github.com/dulithaJayakodige/PionKaon/tree/main](https://github.com/dulithaJayakodige/PionKaon/tree/main)
+Pion and Kaon are subatomic particles that are made out of quark and antiquark pairs. They are created during high-energy collision experiments, and scientists have developed detectors to track them. I took part in the AI4EIC Hackathon, where we had to build a model to classify Pion and Kaon from a large set of data. Our team won second place with a basic Convolutional Neural Network (CNN). Later, I built a model with multiple inputs using the Keras Functional API. In this model, kinematics variables (momentum and angles) were inputted into a Neural Network (NN), while particle detection data was transformed into 64x64 images and input into a CNN. The outputs of the NN and CNN were then fed into another NN to obtain the output. Please check the following link for further details on this project.
+[https://github.com/dulithaJayakodige/PionKaon/tree/main](https://github.com/dulithaJayakodige/PionKaon/tree/main)
 
 
 ### 2. Predicting Bacteria Types 
