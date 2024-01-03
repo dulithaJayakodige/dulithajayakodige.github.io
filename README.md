@@ -1,4 +1,4 @@
-This is a collection of Data Analysis and Machine Learning projects I have done for academic and self-learning purposes. If you have any questions about these projects, like to have a chat or collaborate with me, please feel free to contact me via
+This is a collection of data analysis and machine learning projects I've completed for academic and self-learning purposes. If you have any questions regarding these projects, would like to discuss them, or would like to collaborate with me, please contact me via
 * Email: dulitha.mj@gmail.com
 * Linkedin: [https://www.linkedin.com/in/dulithajayakodige/](https://www.linkedin.com/in/dulithajayakodige/)
 * Kaggle: [https://www.kaggle.com/dulithajayakodige](https://www.kaggle.com/dulithajayakodige)
