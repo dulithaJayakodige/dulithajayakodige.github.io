@@ -10,7 +10,7 @@ This is a collection of Data Analysis and Machine Learning projects I have done 
 
 ![alt text](accenture.png)
 
-I completed the Accenture North America Data Analytics and Visualization Job Simulation on Forage.  As a Data Analyst at Accenture, I completed a simulation focused on advising a hypothetical social media client. I cleaned, modeled, and analyzed seven datasets to uncover insights into content trends to inform strategic decisions. I used the Python pandas, numpy, and matplotlib libraries for this project. I also prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders. Please see more details at: [https://github.com/dulithaJayakodige/ForageAccentureDataAnalytics](https://github.com/dulithaJayakodige/ForageAccentureDataAnalytics)
+I completed the Accenture North America Data Analytics and Visualization Job Simulation on Forage.  As a Data Analyst at Accenture, I completed a simulation focused on advising a hypothetical social media client. I cleaned, modeled, and analyzed seven datasets to uncover insights into content trends to inform strategic decisions. I used the Python pandas, numpy, and matplotlib libraries for this project. I also prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders. Please see more details at:  [https://github.com/dulithaJayakodige/ForageAccentureDataAnalytics](https://github.com/dulithaJayakodige/ForageAccentureDataAnalytics)
 
 ### 2. Classifying Pions and Kaons
 
