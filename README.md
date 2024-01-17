@@ -40,4 +40,4 @@ HUBC TERMINAL was an AI game where we could compete by programming algorithms an
 I followed IBM Data Science Professional Certificate through Coursera. As its capstone project, I predicted the success of a future SpaceX Falcon 9 rocket landing process. I used SpaceX API and Web Scraping to collect data for this project. Then I   performed an exploratory data analysis using pandas library and SQL. Then I visualize data using matplotlib and seaborn. Folium was used to make interactive  maps and Plotly Dash was used to build interactive visuals. I used Logistic Regression, K Nearest Neighbor, Decision Tree Classifier, and Support Vector Machine to predict the success of a future landing process. StandardScaler(), train_test_split(), and  GridSearchCV() functions from sklearn were also used for hyperparameter optimization and accuracy calculation. You can see my work at [https://github.com/dulithaJayakodige/Applied_Data_Science_Capstone](https://github.com/dulithaJayakodige/Applied_Data_Science_Capstone)
 
 
-#### Thank you for visiting. You will see my new projects soon. 
+#### Thank you for visiting. 
